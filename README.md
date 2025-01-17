@@ -26,6 +26,9 @@ Cell size: 1000
 
 ##References
 Bateman, B. L., Wilsey, C., Taylor, L., Wu, J., LeBaron, G. S., & Langham, G. (2020). North American birds require mitigation and adaptation to reduce vulnerability to climate change. Conservation Science and Practice, 2(8), e242. https://doi.org/10.1111/csp2.242
+
 Carroll, C., Lawler, J. J., Roberts, D. R., & Hamann, A. (2015). Biotic and Climatic Velocity Identify Contrasting Areas of Vulnerability to Climate Change. PLOS ONE, 10(10), e0140486. https://doi.org/10.1371/journal.pone.0140486
+
 Hamann, A., Roberts, D. R., Barber, Q. E., Carroll, C., & Nielsen, S. E. (2015). Velocity of climate change algorithms for guiding conservation and management. Global Change Biology, 21(2), 997–1004. https://doi.org/10.1111/gcb.12736
+
 Stralberg, D., Carroll, C., Pedlar, J. H., Wilsey, C. B., McKenney, D. W., & Nielsen, S. E. (2018). Macrorefugia for North American trees and songbirds: Climatic limiting factors and multi-scale topographic influences. Global Ecology and Biogeography, 27(6), 690–703. https://doi.org/10.1111/geb.12731
